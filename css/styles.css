@@ -28,9 +28,6 @@ background-color: #FFFFFF;}
 
         .studio-footer{color: #f4f4fd;}
 
-           .link {
-               text-decoration: none;
-           }
     
            .list {
                list-style-type: none;
@@ -57,9 +54,12 @@ background-color: #FFFFFF;}
                line-height: 1.5;
                /* 150% */
                letter-spacing: 0.02em;
-               color: #434455;
+               color: #2e2f42;
                list-style-type: none;
+               text-decoration: none;
            }
+
+           .contact-info{color: #434455;}
     
            .link:hover,
            .link:focus {
@@ -127,8 +127,7 @@ background-color: #FFFFFF;}
             letter-spacing: 0.02em;
             text-transform: capitalize;}
             
-        .photo-team{border-radius: 0px 0px 4px 4px;
-            background: #FFF;}
+        .photo-team{background: #FFF;}
         
         .name-employee{color:#2E2F42;
             text-align: center;
